@@ -1,0 +1,6 @@
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch7_36\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch7_36\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch7_36\DomainLayer\obj\Debug\DomainLayer.csprojAssemblyReference.cache
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch7_36\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch7_36\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch7_36\DomainLayer\obj\Debug\DomainLayer.pdb

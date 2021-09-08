@@ -1,0 +1,6 @@
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch12_10\ShapeHirarchy\obj\Debug\ShapeHirarchy.csprojAssemblyReference.cache
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch12_10\ShapeHirarchy\obj\Debug\ShapeHirarchy.csproj.CoreCompileInputs.cache
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch12_10\ShapeHirarchy\bin\Debug\ShapeHirarchy.dll
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch12_10\ShapeHirarchy\bin\Debug\ShapeHirarchy.pdb
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch12_10\ShapeHirarchy\obj\Debug\ShapeHirarchy.dll
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch12_10\ShapeHirarchy\obj\Debug\ShapeHirarchy.pdb

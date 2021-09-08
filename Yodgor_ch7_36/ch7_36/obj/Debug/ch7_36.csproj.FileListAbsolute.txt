@@ -1,0 +1,10 @@
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch7_36\ch7_36\bin\Debug\ch7_36.exe.config
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch7_36\ch7_36\bin\Debug\ch7_36.exe
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch7_36\ch7_36\bin\Debug\ch7_36.pdb
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch7_36\ch7_36\bin\Debug\DomainLayer.dll
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch7_36\ch7_36\bin\Debug\DomainLayer.pdb
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch7_36\ch7_36\obj\Debug\ch7_36.csprojAssemblyReference.cache
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch7_36\ch7_36\obj\Debug\ch7_36.csproj.CoreCompileInputs.cache
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch7_36\ch7_36\obj\Debug\ch7_36.csproj.CopyComplete
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch7_36\ch7_36\obj\Debug\ch7_36.exe
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch7_36\ch7_36\obj\Debug\ch7_36.pdb

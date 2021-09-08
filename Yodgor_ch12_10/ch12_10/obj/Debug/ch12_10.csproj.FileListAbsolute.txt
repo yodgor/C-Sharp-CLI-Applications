@@ -1,0 +1,10 @@
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch12_10\ch12_10\obj\Debug\ch12_10.csprojAssemblyReference.cache
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch12_10\ch12_10\obj\Debug\ch12_10.csproj.CoreCompileInputs.cache
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch12_10\ch12_10\bin\Debug\ch12_10.exe.config
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch12_10\ch12_10\bin\Debug\ch12_10.exe
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch12_10\ch12_10\bin\Debug\ch12_10.pdb
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch12_10\ch12_10\bin\Debug\ShapeHirarchy.dll
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch12_10\ch12_10\bin\Debug\ShapeHirarchy.pdb
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch12_10\ch12_10\obj\Debug\ch12_10.csproj.CopyComplete
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch12_10\ch12_10\obj\Debug\ch12_10.exe
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch12_10\ch12_10\obj\Debug\ch12_10.pdb

@@ -1,0 +1,7 @@
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\JamesYodgor_ch9_3\JamesYodgor_ch9_3\bin\Debug\JamesYodgor_ch9_3.exe.config
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\JamesYodgor_ch9_3\JamesYodgor_ch9_3\bin\Debug\JamesYodgor_ch9_3.exe
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\JamesYodgor_ch9_3\JamesYodgor_ch9_3\bin\Debug\JamesYodgor_ch9_3.pdb
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\JamesYodgor_ch9_3\JamesYodgor_ch9_3\obj\Debug\JamesYodgor_ch9_3.csprojAssemblyReference.cache
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\JamesYodgor_ch9_3\JamesYodgor_ch9_3\obj\Debug\JamesYodgor_ch9_3.csproj.CoreCompileInputs.cache
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\JamesYodgor_ch9_3\JamesYodgor_ch9_3\obj\Debug\JamesYodgor_ch9_3.exe
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\JamesYodgor_ch9_3\JamesYodgor_ch9_3\obj\Debug\JamesYodgor_ch9_3.pdb

@@ -1,0 +1,7 @@
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch13_10\ch13_10\obj\Debug\ch13_10.csprojAssemblyReference.cache
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch13_10\ch13_10\obj\Debug\ch13_10.csproj.CoreCompileInputs.cache
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch13_10\ch13_10\bin\Debug\ch13_10.exe.config
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch13_10\ch13_10\bin\Debug\ch13_10.exe
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch13_10\ch13_10\bin\Debug\ch13_10.pdb
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch13_10\ch13_10\obj\Debug\ch13_10.exe
+C:\Users\edgar-po\Desktop\Spring2019\C#\solutions\ch13_10\ch13_10\obj\Debug\ch13_10.pdb
