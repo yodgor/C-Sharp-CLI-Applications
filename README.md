@@ -1,2 +1,2 @@
 # C-Sharp CLI Applications
- C# App
+This repository contains C# CLI applications.
